@@ -265,7 +265,3 @@ Software Engineering Department
 </p>
 
 ---
-
-<p align="center">
-  Made with 💙 by <b>Team Nexora</b>
-</p>
