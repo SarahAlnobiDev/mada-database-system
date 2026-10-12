@@ -227,25 +227,20 @@ Future versions of MADA may include:
 
 ---
 
-## 👩‍💻 Team Nexora
+## 👩‍💻 Development Team
 
-<p align="center">
-  <b>People • Ideas • Impact</b>
-</p>
+**🏛️ University of Science and Technology**
 
-### Team Members
-
-- **Sarah Alnobi** 
-- **Marwa jamel**
-- **Samerh Aldashi**
-
-### Software Engineering
-
-**University of Science and Technology**  
 Faculty of Computing and Information Technology  
-Software Engineering Department  
+Department of Software Engineering
 
-**Academic Year: 2026**
+**Developed by:**
+
+- **Sarah Alnobi — XZero**
+- **Marwa Jameel**
+- **Samira Al-Tabi**
+
+📅 **2026**
 
 ---
 
